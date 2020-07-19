@@ -37,3 +37,5 @@
     <?= WCity::widget(); ?>
 
 10. Url текущего города находится в Yii::$app->params['city']
+
+Пример работы виджета http://merzen.otlr.net/
